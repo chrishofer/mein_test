@@ -6,6 +6,7 @@
 * zwei punkte
 * noch einer
 * noch ein Punkt
+* vierter Punkt
 
 * [] Git Branches kennenlernen
 * [x] Git kennenlernen
