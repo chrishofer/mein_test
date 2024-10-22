@@ -7,6 +7,7 @@
 * noch einer
 * noch ein Punkt
 
-[] Git Branches kennenlernen
-[x] Git kennenlernen
-[] Git Konflikte lösen
+* [] Git Branches kennenlernen
+* [x] Git kennenlernen
+* [] Git Konflikte lösen
+* [] Start with thesis
