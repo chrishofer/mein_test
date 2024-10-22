@@ -9,3 +9,4 @@
 
 [] Git Branches kennenlernen
 [x] Git kennenlernen
+[] Git Konflikte lösen
