@@ -17,3 +17,5 @@ eins zwei
 * [] Git Konflikte lösen
 * [] Start with thesis
 * [x] fixed bug 3
+
+* [ ] test
