@@ -16,3 +16,4 @@ eins zwei
 * [x] Git kennenlernen
 * [] Git Konflikte lösen
 * [] Start with thesis
+* [x] fixed bug 3
