@@ -14,8 +14,8 @@ eins zwei
 
 * [] Git Branches kennenlernen
 * [x] Git kennenlernen
-* [] Git Konflikte lösen
-* [] Start with thesis
+* [x] Git Konflikte lösen
+* [x] Start with thesis
 * [x] fixed bug 3
 
 * [ ] test
