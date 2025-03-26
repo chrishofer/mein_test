@@ -19,3 +19,4 @@ eins zwei
 * [x] fixed bug 3
 
 * [ ] test
+* [ ] test2
