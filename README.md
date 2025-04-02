@@ -12,7 +12,7 @@ eins zwei
 * noch ein Punkt
 * vierter Punkt
 
-* [] Git Branches kennenlernen
+* [x] Git Branches kennenlernen
 * [x] Git kennenlernen
 * [x] Git Konflikte lösen
 * [x] Start with thesis
